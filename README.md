@@ -75,6 +75,8 @@ RegisterNumber: 24007235
 ![Screenshot 2024-12-08 150922](https://github.com/user-attachments/assets/61a44eae-09a3-412e-b4ca-3d4d83a359ca)
 
 **RESULTS**
+Thus the Encoder 8 to 3 is designed and the truthtable is verified.
+
 
 
 
