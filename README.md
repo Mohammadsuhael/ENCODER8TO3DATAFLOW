@@ -1,4 +1,6 @@
 ### ENCODER 8TO3 DATAFLOW Modelling
+DATE: 8/12/24
+
 
 **AIM:**
 
